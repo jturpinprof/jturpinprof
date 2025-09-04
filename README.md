@@ -2,18 +2,22 @@
 
 ## 🎯 Enfoque actual
 
-- 👨‍🏫 Profesor de formación profesional a distancia.
+- 👨‍🏫 Profesor de formación profesional de la familia de informática.
 - 💻 Instructor freelance de cursos IT.
 - 🛠️ Desarrollando soluciones de movilidad basadas en el análisis de datos.
 
 ### 🌐 Multidisciplinar
 
 ### Docente IT
-
 - Creador de contenido y situaciones de aprendizaje.
 - Enfoque práctico: Se aprende haciendo.
 
 - A veces *hago lo que me sale del prompt*
+
+### Curso 2025-2026
+- Lenguajes de marcas y sistemas de gestión de información (1º ASIR)
+- Desarrollo web en entorno servidor (2º DAW)
+- Despliegue de aplicaciones web
 
 ### Analista de Datos & Machine Learning 📊
 
