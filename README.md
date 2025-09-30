@@ -15,9 +15,7 @@
 
 ### Acreditaciones
 
-[![AWS Educator](https://images.credly.com/size/340x340/images/e7bf6727-22cf-45d6-ad9c-76ab57c3f11b/image.png)](https://www.credly.com/badges/8aff9949-6ec8-437c-b836-7abd9fd33816/public_url)
-
-![CDD B2](https://insignias.educacion.es/sites/default/files/styles/thumb_320_320/public/badges/insignia_b_2.png)
+<p align="center"><a href="https://www.credly.com/badges/8aff9949-6ec8-437c-b836-7abd9fd33816/public_url"><img src="https://images.credly.com/size/340x340/images/e7bf6727-22cf-45d6-ad9c-76ab57c3f11b/image.png"      alt="AWS Educator – Credly" width="120"></a><a href="https://insignias.educacion.es/sites/default/files/styles/thumb_320_320/public/badges/insignia_b_2.png"><img src="https://insignias.educacion.es/sites/default/files/styles/thumb_320_320/public/badges/insignia_b_2.png" alt="CDD B2" width="120"></a></p>
 
 ### Curso 2025-2026
 
