@@ -6,15 +6,21 @@
 - 💻 Instructor freelance de cursos IT.
 - 🛠️ Desarrollando soluciones de movilidad basadas en el análisis de datos.
 
-### 🌐 Multidisciplinar
-
 ### Docente IT
+
 - Creador de contenido y situaciones de aprendizaje.
 - Enfoque práctico: Se aprende haciendo.
 
 - A veces *hago lo que me sale del prompt*
 
+### Acreditaciones
+
+[![AWS Educator](https://images.credly.com/size/340x340/images/e7bf6727-22cf-45d6-ad9c-76ab57c3f11b/image.png)](https://www.credly.com/badges/8aff9949-6ec8-437c-b836-7abd9fd33816/public_url)
+
+![CDD B2](https://insignias.educacion.es/sites/default/files/styles/thumb_320_320/public/badges/insignia_b_2.png)
+
 ### Curso 2025-2026
+
 - Lenguajes de marcas y sistemas de gestión de información (1º ASIR)
 - Desarrollo web en entorno servidor (2º DAW)
 - Despliegue de aplicaciones web
